@@ -1,0 +1,856 @@
+backgroundOrder:
+- 11
+- 12
+- 14
+- 15
+- 16
+- 13
+- 44
+- 52
+- 45
+- 49
+- 9
+- 51
+- 50
+- 19
+- 18
+- 17
+- 48
+- 53
+- 10
+- 20
+- 21
+backgroundStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+columnOrder:
+- ICON
+- TAG
+- DISTANCE
+- NAME
+- TYPE
+- ALLIANCE
+- CORPORATION
+- VELOCITY
+- RADIALVELOCITY
+- ANGULARVELOCITY
+- FACTION
+- MILITIA
+- SIZE
+- TRANSVERSALVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 17
+- 10
+- 20
+- 48
+- 21
+flagStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- RADIALVELOCITY
+- TAG
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFF66CCFF>✪ Friendly: Carriers</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 547
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Dictors/Hictors</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 541
+        - 549
+        - 863
+        - 864
+        - 894
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 832
+        - 863
+        - 864
+        - 1023
+        - 1527
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Supercarriers</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 659
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Cmd Dessies</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1534
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: All Capitals</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 90
+        - 485
+        - 547
+        - 549
+        - 659
+        - 863
+        - 864
+        - 883
+        - 1023
+        - 1538
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+        - 1972
+- - '<color=0xFF66CCFF>✪ Friendly: FAX</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1538
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Titans</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 485
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Capitals (-SC/T)</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 485
+        - 547
+        - 549
+        - 863
+        - 864
+        - 883
+        - 1023
+        - 1538
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 30
+        - 90
+        - 549
+        - 659
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Cmd Ships/T3</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 540
+        - 549
+        - 863
+        - 864
+        - 963
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 549
+        - 833
+        - 863
+        - 864
+        - 906
+        - 1023
+        - 1548
+- - '<color=0xFF66CCFF>✪ = Friendly: Snowflakes (+T3)</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 540
+        - 541
+        - 549
+        - 832
+        - 833
+        - 863
+        - 864
+        - 893
+        - 894
+        - 906
+        - 963
+        - 1023
+        - 1527
+        - 1534
+        - 1548
+        - 1972
+- - '<color=0xFF66CCFF>✪ = Friendly: Snowflakes (-T3)</color>'
+  - - - alwaysShownStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 45
+        - 49
+    - - filteredStates
+      - - 9
+        - 10
+        - 13
+        - 17
+        - 18
+        - 19
+        - 20
+        - 21
+        - 36
+        - 37
+        - 44
+        - 48
+        - 50
+        - 51
+        - 52
+        - 53
+    - - groups
+      - - 90
+        - 540
+        - 541
+        - 549
+        - 832
+        - 833
+        - 863
+        - 864
+        - 893
+        - 894
+        - 906
+        - 1023
+        - 1527
+        - 1534
+        - 1548
+        - 1972
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- null
+- pilot name
+- ship name
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - '] </b></color>'
+    - - pre
+      - <fontsize=12><color=0xFF33FFFF><b>[
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - '] </b></color>'
+    - - pre
+      - <fontsize=10><color=0xFF33FF44><b>[
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - </fontsize> -
+    - - pre
+      - ''
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - </i>" -
+    - - pre
+      - ' "<i>'
+    - - state
+      - 1
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - '</b></color></fontsize> '
+    - - pre
+      - <fontsize=12><color=0xFFFFAA66><b>
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - false
+- - background_44
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - false
+- - flag_51
+  - false
+- - flag_52
+  - true
+stateColorsNameList:
+- - background_10
+  - black
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - yellow
+- - background_19
+  - yellow
+- - background_21
+  - black
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_48
+  - black
+- - background_49
+  - blue
+- - background_50
+  - orange
+- - background_51
+  - orange
+- - background_52
+  - red
+- - background_53
+  - black
+- - background_9
+  - orange
+- - flag_48
+  - black
+tabSetup:
+- - 0
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Carriers</color>'
+    - - name
+      - <fontsize=13><color=0xFF55FF00><b> Zansha's Overview Optional Friendly Extended pack loaded </color><br><color=0xFFFFFFFF> Optional - load more expansion packs </color><br><color=0xFFFF0000> and then load a layout</fontsize>
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: Dictors/Hictors</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Logistics</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: Supercarriers</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Cmd Dessies</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: All Capitals</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Flag</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: FAX</color>'
+- - 4
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Titans</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: Dreads</color>'
+- - 5
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Capitals (-SC/T)</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: SC/T</color>'
+- - 6
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ Friendly: Cmd Ships/T3</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ Friendly: Recons</color>'
+- - 7
+  - - - bracket
+      - '<color=0xFF66CCFF>✪ = Friendly: Snowflakes (+T3)</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFF66CCFF>✪ = Friendly: Snowflakes (-T3)</color>'
+userSettings:
+- - hideCorpTicker
+  - true
+- - overviewBroadcastsToTop
+  - true
