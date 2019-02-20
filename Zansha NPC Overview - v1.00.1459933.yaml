@@ -12369,7 +12369,5 @@ tabSetup:
     - - overview
       - <color=0xFF55FF00>⋙ --- GTFO!</color>
 userSettings:
-- - hideCorpTicker
-  - true
 - - overviewBroadcastsToTop
   - true
