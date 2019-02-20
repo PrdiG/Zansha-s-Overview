@@ -9,8 +9,8 @@ Whenever a new version of any overview is created, you will find it here first b
 
 Full details on each overview and what it's for can be found on our wiki: **[Zansha's Overview](https://wiki.zansha.space/index.php/Zansha%27s_Overview)**
 
-This overview is based on Z-S Overview,
-which in turn is based on SaraShawa Overview,
+This overview is based on Z-S Overview, <br>
+which in turn is based on SaraShawa Overview, <br>
 which in turn is based on Sarah's Overview.
 
 This project was begun by Lyra Swift at a time when Zirio was unable to update Z-S Overview due to IRL commitments limiting his access to EVE-Online, and following some patches there were quite a few functions missing.
