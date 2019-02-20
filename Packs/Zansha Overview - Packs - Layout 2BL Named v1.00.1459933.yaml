@@ -3428,7 +3428,7 @@ shipLabels:
       - alliance
 - - corporation
   - - - post
-      - '] </b></color>'
+      - '] </b></color><br>'
     - - pre
       - <fontsize=10><color=0xFF33FF44><b>[
     - - state
@@ -3529,35 +3529,35 @@ tabSetup:
   - - - bracket
       - '≬ Brackets: Combat (-Drones)'
     - - name
-      - <color=0xFFFF9900><b> 2 </b></color>
+      - <color=0xFFFF9900><b> Ships </b></color>
     - - overview
       - '<color=0xFFFF0000>✚ -- PvP: Ships Only</color>'
 - - 3
   - - - bracket
       - '≬ Brackets: Combat (+Drones)'
     - - name
-      - <color=0xFFFFFF00><b> 3 </b></color>
+      - <color=0xFFFFFF00><b> Targets </b></color>
     - - overview
       - '<color=0xFFFFFF00>✜ Target: Drones/Fighters</color>'
 - - 4
   - - - bracket
       - '≬ Brackets: Combat (+Drones)'
     - - name
-      - <color=0xFFFF66FF><b> 4 </b></color>
+      - <color=0xFFFF66FF><b> Misc </b></color>
     - - overview
       - '<color=0xFFFF9900>✛ PvX: Ratting</color>'
 - - 5
   - - - bracket
       - '≬ Brackets: Combat (+Drones)'
     - - name
-      - <color=0xFF00FFFF><b> 5 </b></color>
+      - <color=0xFF00FFFF><b> Loot </b></color>
     - - overview
       - '<color=0xFFFF9900>✛ PvX: Salvage/Loot</color>'
 - - 6
   - - - bracket
       - '≬ Brackets: Combat (+Drones)'
     - - name
-      - <color=0xFF66CCFF><b> 6 </b></color>
+      - <color=0xFF66CCFF><b> Friendly </b></color>
     - - overview
       - '<color=0xFF66CCFF>✪ --- Friendly: All</color>'
 - - 7
