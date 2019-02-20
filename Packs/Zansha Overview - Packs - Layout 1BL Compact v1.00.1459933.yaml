@@ -3419,7 +3419,7 @@ shipLabels:
       - null
 - - alliance
   - - - post
-      - '] </b></color>'
+      - ']</b></color>'
     - - pre
       - <fontsize=12><color=0xFF33FFFF><b>[
     - - state
@@ -3568,7 +3568,5 @@ tabSetup:
     - - overview
       - <color=0xFF55FF00>⋙ --- GTFO!</color>
 userSettings:
-- - hideCorpTicker
-  - true
 - - overviewBroadcastsToTop
   - true

@@ -13066,7 +13066,7 @@ shipLabels:
       - null
 - - alliance
   - - - post
-      - '] </b></color>'
+      - ']</b></color>'
     - - pre
       - <fontsize=12><color=0xFF33FFFF><b>[
     - - state
