@@ -1,0 +1,418 @@
+backgroundOrder:
+- 11
+- 12
+- 14
+- 15
+- 16
+- 13
+- 44
+- 52
+- 45
+- 49
+- 9
+- 51
+- 50
+- 19
+- 18
+- 17
+- 48
+- 53
+- 10
+- 20
+- 21
+backgroundStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+columnOrder:
+- ICON
+- TAG
+- DISTANCE
+- NAME
+- TYPE
+- ALLIANCE
+- CORPORATION
+- VELOCITY
+- RADIALVELOCITY
+- ANGULARVELOCITY
+- FACTION
+- MILITIA
+- SIZE
+- TRANSVERSALVELOCITY
+flagOrder:
+- 13
+- 44
+- 52
+- 11
+- 12
+- 14
+- 15
+- 16
+- 45
+- 9
+- 51
+- 50
+- 53
+- 19
+- 18
+- 49
+- 17
+- 10
+- 20
+- 48
+- 21
+flagStates:
+- 9
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 21
+- 44
+- 45
+- 48
+- 49
+- 50
+- 51
+- 52
+overviewColumns:
+- ALLIANCE
+- ANGULARVELOCITY
+- CORPORATION
+- DISTANCE
+- ICON
+- NAME
+- RADIALVELOCITY
+- TAG
+- TYPE
+- VELOCITY
+presets:
+- - '<color=0xFFFFFF00>✜ Target: Capitals (-SC/T)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 485
+        - 547
+        - 549
+        - 863
+        - 864
+        - 883
+        - 1023
+        - 1538
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: Supercarriers</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 549
+        - 659
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: Dreads</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 485
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: Carriers</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 547
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: FAX</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1538
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: Fighters</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1537
+        - 1548
+        - 1652
+        - 1653
+- - '<color=0xFFFFFF00>✜ Target: SC/T</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 30
+        - 90
+        - 549
+        - 659
+        - 863
+        - 864
+        - 1023
+        - 1548
+- - '<color=0xFFFFFF00>✜ Target: Titans</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 12
+        - 14
+        - 15
+        - 16
+        - 21
+        - 45
+        - 49
+    - - groups
+      - - 30
+        - 90
+        - 549
+        - 863
+        - 864
+        - 1023
+        - 1548
+shipLabelOrder:
+- ship type
+- alliance
+- corporation
+- null
+- pilot name
+- ship name
+shipLabels:
+- - null
+  - - - post
+      - ''
+    - - pre
+      - ''
+    - - state
+      - 0
+    - - type
+      - null
+- - alliance
+  - - - post
+      - '] </b></color>'
+    - - pre
+      - <fontsize=12><color=0xFF33FFFF><b>[
+    - - state
+      - 1
+    - - type
+      - alliance
+- - corporation
+  - - - post
+      - '] </b></color>'
+    - - pre
+      - <fontsize=10><color=0xFF33FF44><b>[
+    - - state
+      - 1
+    - - type
+      - corporation
+- - pilot name
+  - - - post
+      - </fontsize> -
+    - - pre
+      - ''
+    - - state
+      - 1
+    - - type
+      - pilot name
+- - ship name
+  - - - post
+      - </i>" -
+    - - pre
+      - ' "<i>'
+    - - state
+      - 1
+    - - type
+      - ship name
+- - ship type
+  - - - post
+      - '</b></color></fontsize> '
+    - - pre
+      - <fontsize=12><color=0xFFFFAA66><b>
+    - - state
+      - 1
+    - - type
+      - ship type
+stateBlinks:
+- - background_13
+  - false
+- - background_44
+  - false
+- - flag_13
+  - true
+- - flag_44
+  - true
+- - flag_50
+  - false
+- - flag_51
+  - false
+- - flag_52
+  - true
+stateColorsNameList:
+- - background_10
+  - black
+- - background_12
+  - darkBlue
+- - background_16
+  - darkBlue
+- - background_18
+  - yellow
+- - background_19
+  - yellow
+- - background_21
+  - black
+- - background_44
+  - red
+- - background_45
+  - blue
+- - background_48
+  - black
+- - background_49
+  - blue
+- - background_50
+  - orange
+- - background_51
+  - orange
+- - background_52
+  - red
+- - background_53
+  - black
+- - background_9
+  - orange
+- - flag_48
+  - black
+tabSetup:
+- - 0
+  - - - bracket
+      - '<color=0xFFFFFF00>✜ Target: Capitals (-SC/T)</color>'
+    - - name
+      - <fontsize=13><color=0xFF55FF00><b> Zansha's Overview Target Capitals Optional pack loaded </color><br><color=0xFFFFFFFF> Optional - load more expansion packs </color><br><color=0xFFFF0000> and then load a layout</fontsize>
+    - - overview
+      - '<color=0xFFFFFF00>✜ Target: Carriers</color>'
+- - 1
+  - - - bracket
+      - '<color=0xFFFFFF00>✜ Target: Dreads</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFFFFFF00>✜ Target: FAX</color>'
+- - 2
+  - - - bracket
+      - '<color=0xFFFFFF00>✜ Target: Fighters</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFFFFFF00>✜ Target: SC/T</color>'
+- - 3
+  - - - bracket
+      - '<color=0xFFFFFF00>✜ Target: Supercarriers</color>'
+    - - name
+      - ' '
+    - - overview
+      - '<color=0xFFFFFF00>✜ Target: Titans</color>'
+userSettings:
+- - hideCorpTicker
+  - true
+- - overviewBroadcastsToTop
+  - true
