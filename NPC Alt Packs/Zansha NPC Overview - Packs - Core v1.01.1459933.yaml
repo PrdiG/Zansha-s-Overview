@@ -106,18 +106,14 @@ overviewColumns:
 - TYPE
 - VELOCITY
 presets:
-- - <color=0xFFFFFFFF>✈ --- Travel (-Ship -Sta/Cit)</color>
+- - '<color=0xFFFFFFFF>NPC ✈ --- Travel (-Ship -Sta/Cit)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 21
-        - 45
-        - 49
     - - groups
       - - 6
         - 10
@@ -286,18 +282,14 @@ presets:
         - 2016
         - 2017
         - 2020
-- - <color=0xFFFFFFFF>✈ --- Travel (+Ship -Sta/Cit)</color>
+- - '<color=0xFFFFFFFF>NPC ✈ --- Travel (+Ship -Sta/Cit)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 21
-        - 45
-        - 49
     - - groups
       - - 6
         - 10
@@ -512,18 +504,14 @@ presets:
         - 2016
         - 2017
         - 2020
-- - <color=0xFFFFFFFF>✈ --- Travel (+Ship +Sta/Cit)</color>
+- - '<color=0xFFFFFFFF>NPC ✈ --- Travel (+Ship +Sta/Cit)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 21
-        - 45
-        - 49
     - - groups
       - - 6
         - 10
@@ -745,17 +733,13 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFFFF0000>✚ --- PvP: General (+Neut -NPC)</color>'
+- - '<color=0xFFFF0000>NPC ✚ --- PvP: General (+Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
-        - 45
-        - 49
     - - groups
       - - 6
         - 10
@@ -861,19 +845,15 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFFFF0000>✚ --- PvP: General (-Neut -NPC)</color>'
+- - '<color=0xFFFF0000>NPC ✚ --- PvP: General (-Neut -NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 17
-        - 45
         - 48
-        - 49
     - - groups
       - - 6
         - 10
@@ -979,19 +959,15 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFFFF0000>✚ --- PvP: General (-Neut +NPC)</color>'
+- - '<color=0xFFFF0000>NPC ✚ --- PvP: General (-Neut +NPC)</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 17
-        - 45
         - 48
-        - 49
     - - groups
       - - 6
         - 10
@@ -1418,7 +1394,7 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFFFF0000>✚ = PvP: Cloaked Collidables</color>'
+- - '<color=0xFFFF0000>NPC ✚ = PvP: Cloaked Collidables</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -1921,7 +1897,7 @@ presets:
         - 2020
         - 2022
         - 2024
-- - '<color=0xFFFF0000>✚ PvP: NPSI</color>'
+- - '<color=0xFFFF0000>NPC ✚ PvP: NPSI</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2164,276 +2140,14 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFFFF0000>✚ PvP: Wartargets</color>'
-  - - - alwaysShownStates
-      - - 13
-        - 44
-    - - filteredStates
-      - - 9
-        - 10
-        - 11
-        - 12
-        - 14
-        - 15
-        - 16
-        - 17
-        - 18
-        - 19
-        - 20
-        - 21
-        - 36
-        - 37
-        - 45
-        - 48
-        - 49
-        - 50
-        - 51
-        - 52
-        - 53
-    - - groups
-      - - 6
-        - 10
-        - 15
-        - 25
-        - 26
-        - 27
-        - 28
-        - 29
-        - 30
-        - 31
-        - 90
-        - 237
-        - 310
-        - 324
-        - 337
-        - 358
-        - 361
-        - 366
-        - 380
-        - 381
-        - 383
-        - 419
-        - 420
-        - 463
-        - 479
-        - 485
-        - 492
-        - 513
-        - 520
-        - 522
-        - 523
-        - 527
-        - 533
-        - 534
-        - 540
-        - 541
-        - 543
-        - 547
-        - 548
-        - 550
-        - 551
-        - 552
-        - 553
-        - 554
-        - 555
-        - 556
-        - 557
-        - 558
-        - 559
-        - 560
-        - 561
-        - 562
-        - 563
-        - 564
-        - 565
-        - 566
-        - 567
-        - 568
-        - 569
-        - 570
-        - 571
-        - 572
-        - 573
-        - 574
-        - 575
-        - 576
-        - 577
-        - 578
-        - 579
-        - 580
-        - 581
-        - 582
-        - 583
-        - 584
-        - 593
-        - 594
-        - 595
-        - 596
-        - 597
-        - 602
-        - 603
-        - 604
-        - 605
-        - 606
-        - 611
-        - 612
-        - 613
-        - 614
-        - 615
-        - 620
-        - 621
-        - 622
-        - 623
-        - 624
-        - 629
-        - 630
-        - 631
-        - 632
-        - 633
-        - 659
-        - 755
-        - 756
-        - 757
-        - 758
-        - 759
-        - 760
-        - 761
-        - 789
-        - 790
-        - 791
-        - 792
-        - 793
-        - 794
-        - 795
-        - 796
-        - 797
-        - 798
-        - 799
-        - 800
-        - 801
-        - 802
-        - 803
-        - 804
-        - 805
-        - 806
-        - 807
-        - 808
-        - 809
-        - 810
-        - 811
-        - 812
-        - 813
-        - 814
-        - 816
-        - 817
-        - 818
-        - 819
-        - 820
-        - 821
-        - 822
-        - 823
-        - 824
-        - 825
-        - 826
-        - 827
-        - 828
-        - 829
-        - 830
-        - 831
-        - 832
-        - 833
-        - 834
-        - 835
-        - 836
-        - 843
-        - 844
-        - 845
-        - 846
-        - 847
-        - 848
-        - 849
-        - 850
-        - 851
-        - 852
-        - 861
-        - 863
-        - 864
-        - 865
-        - 866
-        - 867
-        - 868
-        - 875
-        - 883
-        - 893
-        - 894
-        - 897
-        - 898
-        - 900
-        - 902
-        - 906
-        - 920
-        - 925
-        - 941
-        - 959
-        - 960
-        - 961
-        - 963
-        - 982
-        - 983
-        - 984
-        - 985
-        - 986
-        - 987
-        - 988
-        - 1003
-        - 1005
-        - 1012
-        - 1022
-        - 1051
-        - 1052
-        - 1053
-        - 1054
-        - 1056
-        - 1149
-        - 1201
-        - 1202
-        - 1249
-        - 1273
-        - 1274
-        - 1275
-        - 1276
-        - 1283
-        - 1305
-        - 1316
-        - 1404
-        - 1406
-        - 1408
-        - 1527
-        - 1534
-        - 1538
-        - 1548
-        - 1657
-        - 1704
-        - 1876
-        - 1924
-        - 1972
-        - 2001
-        - 2015
-        - 2016
-        - 2017
-        - 2020
-- - '<color=0xFFFFFF00>✜ --- Target: All Capitals</color>'
+- - '<color=0xFFFFFF00>NPC ✜ --- Target: All Capitals</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 21
-        - 45
-        - 49
     - - groups
       - - 30
         - 90
@@ -2447,18 +2161,14 @@ presets:
         - 1023
         - 1538
         - 1548
-- - '<color=0xFFFFFF00>✜ -- Target: Antibombers</color>'
+- - '<color=0xFFFFFF00>NPC ✜ -- Target: Antibombers</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
       - - 11
-        - 12
-        - 14
         - 15
         - 16
         - 21
-        - 45
-        - 49
     - - groups
       - - 90
         - 549
@@ -2467,7 +2177,7 @@ presets:
         - 864
         - 1023
         - 1548
-- - <color=0xFF55FF00>⋙ Align Points</color>
+- - '<color=0xFF55FF00>⋙ Align Points</color>'
   - - - alwaysShownStates
       - []
     - - filteredStates
@@ -2555,7 +2265,7 @@ presets:
         - 2016
         - 2017
         - 2020
-- - '<color=0xFF66CCFF>✪ -- Friendly: Fleet</color>'
+- - '<color=0xFF66CCFF>NPC ✪ -- Friendly: Fleet</color>'
   - - - alwaysShownStates
       - - 11
     - - filteredStates
@@ -2812,6 +2522,381 @@ presets:
         - 2015
         - 2016
         - 2017
+- - '<color=0xFFFF9900>NPC ✛ PvX: Salvage/Loot (-Ships)</color>'
+  - - - alwaysShownStates
+      - []
+    - - filteredStates
+      - - 11
+        - 15
+        - 16
+        - 21
+    - - groups
+      - - 6
+        - 10
+        - 12
+        - 14
+        - 15
+        - 90
+        - 100
+        - 101
+        - 180
+        - 185
+        - 186
+        - 279
+        - 286
+        - 287
+        - 297
+        - 298
+        - 306
+        - 310
+        - 335
+        - 337
+        - 340
+        - 361
+        - 366
+        - 383
+        - 435
+        - 448
+        - 479
+        - 492
+        - 494
+        - 495
+        - 496
+        - 517
+        - 520
+        - 522
+        - 523
+        - 527
+        - 533
+        - 534
+        - 544
+        - 548
+        - 550
+        - 551
+        - 552
+        - 553
+        - 554
+        - 555
+        - 556
+        - 557
+        - 558
+        - 559
+        - 560
+        - 561
+        - 562
+        - 563
+        - 564
+        - 565
+        - 566
+        - 567
+        - 568
+        - 569
+        - 570
+        - 571
+        - 572
+        - 573
+        - 574
+        - 575
+        - 576
+        - 577
+        - 578
+        - 579
+        - 580
+        - 581
+        - 582
+        - 583
+        - 584
+        - 593
+        - 594
+        - 595
+        - 596
+        - 597
+        - 602
+        - 603
+        - 604
+        - 605
+        - 606
+        - 611
+        - 612
+        - 613
+        - 614
+        - 615
+        - 620
+        - 621
+        - 622
+        - 623
+        - 624
+        - 629
+        - 630
+        - 631
+        - 632
+        - 633
+        - 639
+        - 640
+        - 641
+        - 649
+        - 665
+        - 666
+        - 667
+        - 668
+        - 669
+        - 670
+        - 671
+        - 672
+        - 673
+        - 674
+        - 675
+        - 676
+        - 677
+        - 678
+        - 679
+        - 680
+        - 681
+        - 682
+        - 683
+        - 684
+        - 685
+        - 686
+        - 687
+        - 688
+        - 689
+        - 690
+        - 691
+        - 692
+        - 693
+        - 694
+        - 695
+        - 696
+        - 697
+        - 698
+        - 699
+        - 700
+        - 701
+        - 702
+        - 703
+        - 704
+        - 705
+        - 706
+        - 755
+        - 756
+        - 757
+        - 758
+        - 759
+        - 760
+        - 761
+        - 789
+        - 790
+        - 791
+        - 792
+        - 793
+        - 794
+        - 795
+        - 796
+        - 797
+        - 798
+        - 799
+        - 800
+        - 801
+        - 802
+        - 803
+        - 804
+        - 805
+        - 806
+        - 807
+        - 808
+        - 809
+        - 810
+        - 811
+        - 812
+        - 813
+        - 814
+        - 816
+        - 817
+        - 818
+        - 819
+        - 820
+        - 821
+        - 822
+        - 823
+        - 824
+        - 825
+        - 826
+        - 827
+        - 828
+        - 829
+        - 835
+        - 836
+        - 843
+        - 844
+        - 845
+        - 846
+        - 847
+        - 848
+        - 849
+        - 850
+        - 851
+        - 852
+        - 861
+        - 863
+        - 864
+        - 865
+        - 866
+        - 867
+        - 868
+        - 875
+        - 897
+        - 920
+        - 922
+        - 924
+        - 925
+        - 927
+        - 934
+        - 952
+        - 959
+        - 960
+        - 961
+        - 982
+        - 983
+        - 984
+        - 985
+        - 986
+        - 987
+        - 988
+        - 1003
+        - 1004
+        - 1005
+        - 1006
+        - 1007
+        - 1012
+        - 1051
+        - 1052
+        - 1053
+        - 1054
+        - 1056
+        - 1081
+        - 1082
+        - 1149
+        - 1159
+        - 1166
+        - 1167
+        - 1168
+        - 1169
+        - 1174
+        - 1175
+        - 1176
+        - 1177
+        - 1178
+        - 1179
+        - 1180
+        - 1181
+        - 1182
+        - 1183
+        - 1184
+        - 1185
+        - 1186
+        - 1207
+        - 1250
+        - 1252
+        - 1255
+        - 1259
+        - 1262
+        - 1265
+        - 1274
+        - 1285
+        - 1286
+        - 1287
+        - 1288
+        - 1307
+        - 1310
+        - 1312
+        - 1316
+        - 1402
+        - 1404
+        - 1406
+        - 1408
+        - 1411
+        - 1412
+        - 1413
+        - 1414
+        - 1452
+        - 1453
+        - 1454
+        - 1455
+        - 1465
+        - 1529
+        - 1530
+        - 1537
+        - 1548
+        - 1566
+        - 1567
+        - 1568
+        - 1652
+        - 1653
+        - 1657
+        - 1664
+        - 1665
+        - 1666
+        - 1667
+        - 1681
+        - 1682
+        - 1683
+        - 1684
+        - 1685
+        - 1686
+        - 1687
+        - 1688
+        - 1689
+        - 1690
+        - 1691
+        - 1692
+        - 1704
+        - 1720
+        - 1721
+        - 1722
+        - 1724
+        - 1725
+        - 1726
+        - 1727
+        - 1728
+        - 1729
+        - 1731
+        - 1734
+        - 1735
+        - 1736
+        - 1737
+        - 1759
+        - 1761
+        - 1762
+        - 1764
+        - 1765
+        - 1766
+        - 1767
+        - 1768
+        - 1803
+        - 1813
+        - 1814
+        - 1876
+        - 1878
+        - 1879
+        - 1880
+        - 1895
+        - 1896
+        - 1909
+        - 1924
+        - 1925
+        - 1926
+        - 1927
+        - 1928
+        - 1929
+        - 1956
+        - 1981
+        - 1982
+        - 1991
+        - 1997
+        - 2015
+        - 2016
+        - 2017
+        - 2020
 shipLabelOrder:
 - ship type
 - alliance
@@ -2925,42 +3010,42 @@ stateColorsNameList:
 tabSetup:
 - - 0
   - - - bracket
-      - '<color=0xFFFFFFFF>✈ --- Travel (-Ship -Sta/Cit)</color>'
+      - '<color=0xFFFFFFFF>NPC ✈ --- Travel (-Ship -Sta/Cit)</color>'
     - - name
-      - <fontsize=13><color=0xFF55FF00><b> Zansha's Overview Core pack loaded </color><br><color=0xFFFFFFFF> Optional - load desired expansion packs </color><br><color=0xFFFF0000> and then load a layout</fontsize>
+      - <fontsize=13><color=0xFF55FF00><b> Zansha's NPC Overview Core pack loaded </color><br><color=0xFFFFFFFF> Optional - load desired expansion packs </color><br><color=0xFFFF0000> and then load a layout</fontsize>
     - - overview
-      - '<color=0xFFFFFFFF>✈ --- Travel (+Ship -Sta/Cit)</color>'
+      - '<color=0xFFFFFFFF>NPC ✈ --- Travel (+Ship -Sta/Cit)</color>'
 - - 1
   - - - bracket
-      - '<color=0xFFFFFFFF>✈ --- Travel (+Ship +Sta/Cit)</color>'
+      - '<color=0xFFFFFFFF>NPC ✈ --- Travel (+Ship +Sta/Cit)</color>'
     - - name
       - ''
     - - overview
-      - '<color=0xFFFF0000>✚ --- PvP: General (+Neut -NPC)</color>'
+      - '<color=0xFFFF0000>NPC ✚ --- PvP: General (+Neut -NPC)</color>'
 - - 2
   - - - bracket
-      - '<color=0xFFFF0000>✚ --- PvP: General (-Neut -NPC)</color>'
+      - '<color=0xFFFF0000>NPC ✚ --- PvP: General (-Neut -NPC)</color>'
     - - name
       - ' '
     - - overview
-      - '<color=0xFFFF0000>✚ --- PvP: General (-Neut +NPC)</color>'
+      - '<color=0xFFFF0000>NPC ✚ --- PvP: General (-Neut +NPC)</color>'
 - - 3
   - - - bracket
-      - '<color=0xFFFF0000>✚ = PvP: Cloaked Collidables</color>'
+      - '<color=0xFFFF0000>NPC ✚ = PvP: Cloaked Collidables</color>'
     - - name
       - ' '
     - - overview
-      - '<color=0xFFFF0000>✚ PvP: NPSI</color>'
+      - '<color=0xFFFF0000>NPC ✚ PvP: NPSI</color>'
 - - 4
   - - - bracket
-      - '<color=0xFFFF0000>✚ PvP: Wartargets</color>'
+      - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
     - - name
       - ' '
     - - overview
-      - '<color=0xFFFFFF00>✜ --- Target: All Capitals</color>'
+      - '<color=0xFFFFFF00>NPC ✜ --- Target: All Capitals</color>'
 - - 5
   - - - bracket
-      - '<color=0xFFFFFF00>✜ -- Target: Antibombers</color>'
+      - '<color=0xFFFFFF00>NPC ✜ -- Target: Antibombers</color>'
     - - name
       - ' '
     - - overview
@@ -2971,16 +3056,14 @@ tabSetup:
     - - name
       - ' '
     - - overview
-      - '<color=0xFF66CCFF>✪ -- Friendly: Fleet</color>'
+      - '<color=0xFF66CCFF>NPC ✪ -- Friendly: Fleet</color>'
 - - 7
   - - - bracket
-      - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
+      - Null
     - - name
       - ' '
     - - overview
-      - '<color=0xFFFD96CF>※ --- D-Scan: All</color>'
+      - '<color=0xFFFF9900>NPC ✛ PvX: Salvage/Loot (-Ships)</color>'
 userSettings:
-- - hideCorpTicker
-  - true
 - - overviewBroadcastsToTop
   - true
